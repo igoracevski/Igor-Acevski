@@ -4,10 +4,12 @@ Elk Stack Project
 
 The files in this repository were used to configure the network depicted below.
 
+(Diagrams/Final project Diagram.jpg)
 https://drive.google.com/file/d/1Z9iwv_a3-cZ2UoDFMgv04-DwDfXO54dK/view?usp=sharing
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the __yaml___ file may be used to install only certain pieces of it, such as Filebeat.
 
+(Ansible/Filebeat-playbook.yml.txt)
 https://drive.google.com/file/d/1RS5l7dxLAAI-NCtczjixezo1LiZyfFoN/view?usp=sharing
 
 This document contains the following details:
@@ -89,6 +91,7 @@ E.g., install Docker; download image; etc._
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
+(Linux/docker ps.jpg)
 https://drive.google.com/file/d/1ZsXvhw6junCW95mgeonYC0iudkwFBJlN/view?usp=sharing
 
 
