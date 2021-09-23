@@ -75,8 +75,6 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 To save time by automating all machines at ones. Setup all machines with one ansible playbook that loads ips of the machines. 						
 
 The playbook implements the following tasks:
--In 3-5 bullets, explain the steps of the ELK installation play. 
-E.g., install Docker; download image; etc._
 
 - Installing the docker.
 - Installing the Phyton3.
