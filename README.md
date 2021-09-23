@@ -25,24 +25,18 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly _redundancy_, in addition to restricting __traffic___ to the network.
+Load balancing ensures that the application will be highly redundancy, in addition to restricting traffic to the network.
 
 --The load balancer is here to redirect the traffic on through web servers. In addition to avoid DDOs attack.
 
 --The advantage of Jump Box that you are creating a vMachine so you can manage the systems and the security to your network or systems.
 
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the __Logs___ and system __Traffic___.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the Logs and system Traffic.
 -What does Filebeat watch for? Monitors the log files or a specific location.
 -What does Metricbeat record? Monitors the performance of the systems. 
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
-
-
-
-
-
 
 
 | Name       | Function | IP Address | Operating System |
